@@ -8,7 +8,7 @@ This Weather Data Collection and Analysis App retrieves real-time weather data f
 
 - **Real-Time Weather Updates:** Fetches up-to-date weather data for multiple cities, displaying metrics like temperature, humidity, and wind speed.
 - **Temperature Unit Conversion:** Allows users to view temperatures in Celsius, Fahrenheit, or Kelvin.
--**Weather Forecast:** Provides a 5-day forecast with detailed hourly updates.
+- **Weather Forecast:** Provides a 5-day forecast with detailed hourly updates.
 - **Additional Parameters:** Supports retrieval and analysis of additional weather parameters such as humidity and wind speed.
 
 
