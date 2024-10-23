@@ -1,3 +1,4 @@
+
 # Weather Data Collection and Analysis System
 
 This Weather Data Collection and Analysis App retrieves real-time weather data from an API, providing detailed metrics like temperature, humidity, and wind speed. It includes features for daily summaries, trend analysis, and alerts based on user-defined thresholds. The app presents the data visually, enabling users to monitor and analyze weather conditions effectively.
@@ -12,6 +13,14 @@ This Weather Data Collection and Analysis App retrieves real-time weather data f
 
 
 
+## Prerequisites
+
+To build and run this project locally, you need:
+
+- Node.js (v14.0 or above)
+- npm (Node Package Manager)
+- API Key: An OpenWeatherMap API key (Sign up here for an API key)
+
 ## Design Choices
 
 - Real-Time Data: Utilized OpenWeatherMap API to provide live weather updates and forecasts, ensuring accurate, up-to-date information for users.
@@ -19,3 +28,20 @@ This Weather Data Collection and Analysis App retrieves real-time weather data f
 - Temperature Unit Conversion: Integrated a dropdown menu to allow seamless switching between Celsius, Fahrenheit, and Kelvin, offering flexibility based on user preference.
 - User Input-Based Search: Designed the system to allow users to search for weather data based on any city, ensuring flexibility in monitoring weather conditions globally.
 - Minimalist and Clear Layout: The UI design focused on simplicity and ease of navigation, with cards and charts clearly presenting relevant weather data in a clean, organized format.
+## Build Instructions
+
+#### Clone the Repository
+
+```bash
+    git clone https://github.com/GargiRajput/Zeotap_WeatherApp.git
+    cd Zeotap_weather_app
+```
+#### Install Dependencies
+```bash
+    npm install
+```
+#### Start the Application
+```bash
+    npm start
+```
+
